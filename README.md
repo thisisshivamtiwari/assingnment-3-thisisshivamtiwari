@@ -21,9 +21,13 @@ This repository contains the implementation of clustering-based sampling techniq
 
 ## Files Structure
 - `clustering_based_sampling.ipynb` - Main analysis notebook
+- `DYNAMIC_INSIGHTS_FRAMEWORK.md` - **Dynamic insight generation patterns and implementation guide**
 - `creditcard.csv` - Dataset (fraud detection transactions) - **Download separately**
 - `da5401_a3_prd.md` - Project requirements document
 - `DA5401 A3 Clustering Based Sampling.pdf` - Assignment instructions
+
+## 🎯 Analysis Approach
+This project implements **Dynamic Insight Generation** where all analysis, visualizations, and recommendations adapt to the actual data characteristics discovered. See `DYNAMIC_INSIGHTS_FRAMEWORK.md` for detailed implementation patterns.
 
 ## Requirements
 - Python 3.x
