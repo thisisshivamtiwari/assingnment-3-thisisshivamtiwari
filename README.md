@@ -7,6 +7,7 @@ This repository contains the implementation of clustering-based sampling techniq
 - Credit Card Fraud Detection Dataset
 - Highly imbalanced binary classification problem
 - 284,807 transactions with extreme class imbalance
+- **Note**: The `creditcard.csv` file (143.84 MB) is not included in this repository due to GitHub size limits. Please ensure you have this file in your local directory before running the notebook.
 
 ## Objectives
 1. Explore and analyze class imbalance in the dataset
@@ -20,7 +21,7 @@ This repository contains the implementation of clustering-based sampling techniq
 
 ## Files Structure
 - `clustering_based_sampling.ipynb` - Main analysis notebook
-- `creditcard.csv` - Dataset (fraud detection transactions)
+- `creditcard.csv` - Dataset (fraud detection transactions) - **Download separately**
 - `da5401_a3_prd.md` - Project requirements document
 - `DA5401 A3 Clustering Based Sampling.pdf` - Assignment instructions
 
