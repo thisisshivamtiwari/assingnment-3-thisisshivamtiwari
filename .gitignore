@@ -64,8 +64,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Data files (optional - uncomment if you don't want to track large data files)
-# *.csv
+# Data files (large files excluded from git)
+*.csv
+creditcard.csv
 # *.json
 # *.pickle
 # *.pkl
