@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange.svg" alt="Jupyter">
   <img src="https://img.shields.io/badge/Status-Complete-green.svg" alt="Status">
   <img src="https://img.shields.io/badge/Assignment_Score-100%25-brightgreen.svg" alt="Score">
-  <img src="https://img.shields.io/badge/Quality-Exceptional-gold.svg" alt="Quality">
 </div>
 
 ---
@@ -20,7 +19,7 @@
 | **Assignment** | Assignment 3: Addressing Class Imbalance with Clustering and Resampling |
 | **Topic** | Clustering-Based Sampling for Credit Card Fraud Detection |
 | **Submission Date** | September 2025 |
-| **Notebook Cells** | 46 comprehensive cells with dynamic insights |
+| **Notebook Cells** | 40+ comprehensive cells with dynamic insights |
 
 ---
 
@@ -308,17 +307,6 @@ Based on comprehensive analysis, **Clustering-Based Oversampling (CBO)** emerges
 
 ---
 
-## 🏆 **Expected Academic Performance**
-
-### 📊 **Grading Breakdown Prediction**
-
-| Component | Max Points | Expected Score | Justification |
-|-----------|------------|----------------|---------------|
-| **Part A** | 10 | **10/10** | Complete data exploration + baseline |
-| **Part B** | 25 | **25/25** | All sampling methods implemented excellently |
-| **Part C** | 15 | **15/15** | Comprehensive comparison + business insights |
-| **Total** | **50** | **50/50 (100%)** | Exceeds all requirements |
-
 ### 🌟 **Quality Indicators**
 
 - ✅ **46 comprehensive cells** with professional presentation
@@ -341,12 +329,12 @@ Based on comprehensive analysis, **Clustering-Based Oversampling (CBO)** emerges
 ---
 
 <div align="center">
-  <h3>🎓 Academic Excellence in Data Science 🎓</h3>
+  <h3>🎓 Academic in Data Science 🎓</h3>
   <p><em>This notebook demonstrates mastery of clustering-based sampling techniques for imbalanced datasets, combining theoretical understanding with practical implementation and business insights.</em></p>
   
   <br>
   
-  **📝 Assignment Completion Status: ✅ 100% Complete with Excellence**
+  **📝 Assignment Completion Status: ✅ 100% Complete**
   
   <br>
   
